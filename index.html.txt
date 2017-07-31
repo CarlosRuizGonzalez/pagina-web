@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Estudio fotográfico</title>
+		<title style="color:red">Estudio fotográfico</title>
 	</head>
 
 	<body>
