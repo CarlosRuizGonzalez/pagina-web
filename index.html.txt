@@ -9,5 +9,8 @@
 	<body>
 		<h1>Bienvenido a la web del estudio fotográfico</h1>
 		<h2>Esta es la pagina donde podrás ver todas las noticias.</h2>
+		<form>
+			<input type="text" name="nombre"/>
+		</form>
 	</body>
 </html>
